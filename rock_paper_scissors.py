@@ -1,3 +1,5 @@
+# this is an implementation of rock, paper, scissors
+
 import random
 
 
