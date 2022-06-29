@@ -14,4 +14,4 @@ def two_sum(list, k):
                 return list[i], list[j]
         
 x = [4,7,1,-3,2]
-print(two_sum(x, 5))
+print(two_sum(x, 6))
