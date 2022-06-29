@@ -15,4 +15,6 @@ class Solution:
         print(max(str_list, key=len))
         return len(max(str_list, key=len))
 
+    
+test_case = "codersalwayswanttolookcool"
 print (Solution().lengthoflongestsubstring('abrkaabcdefghijjxxx'))
